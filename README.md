@@ -1,3 +1,5 @@
 # bitcoin
 Bitcoin semplice
-Chiavi
+Chiavi ed indirizzi
+Altro
+Altro
