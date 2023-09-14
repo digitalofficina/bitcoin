@@ -1,8 +1,8 @@
-# bitcoin
-Bitcoin semplice
+# YADE DIY
+...Bitcoin semplice
 
-Chiavi ed indirizzi
+...Chiavi ed indirizzi
 
-Timechain
+...Timechain
 
-# bitcoin
+# ..bitcoin
